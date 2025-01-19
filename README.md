@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm [su0myn0nA](https://github.com/su0myn0nA/su0myn0nA) 👋
+
+Since An0nym0us is already taken, so I'm su0myn0nA.
 
 <!--
 **su0myn0nA/su0myn0nA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
